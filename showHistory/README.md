@@ -2,6 +2,7 @@
 Typed URL History
 =======
 @author- Prashansa Mohanta
+-----
 Reads your history, and shows the top ten pages you go to by typing the URL.
 
 
